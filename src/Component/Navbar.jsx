@@ -58,7 +58,7 @@ const Navbar = () => {
               paddingLeft={4}
               h="56px"
               w="200px"
-              src={require(`../Images/logo.jpg`)}
+              src={require(`../Images/logo.webp`)}
               alt="image"
             />
           </RouterLink>
